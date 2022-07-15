@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!--
+Author: Firdosh Ansari Jawed
+XML file
+Ansari Giftcard Store
+-->
+  <?xml-stylesheet type="text/css" href="catalog_20048890.css"?>  
+  <store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Catalog_20048890.xsd" xmlns:xlink="http://www.w3.org/1999/xlink">  
+	<storeDetails>
+		<logo>
+		</logo>
+		<!-- the logo of store -->
+		<storeName>
+			Ansari Gift Card
+		</storeName>
+		<!-- The gift store is name Ansari Gift Store -->
+		<description>
+			&#xA; Since 2009
+		</description>
+		<!-- short description of the store -->
+		<aboutUs>
+			Ansari Gift card is a store in London, United Kingdom sells digital gift cards or gift vouchers. A gift card is 
+            a form of payment that can be used to make purchases at retail stores, gas stations, 
+            restaurants and other locations. You load money onto the card, which you or the gift 
+            card recipient can then spend at accepted locations. 
+		</aboutUs>
+	</storeDetails>
+	<!-- all card details -->
+	<cards>
+		<!-- Display for card 1 -->
+		<card cardID="SN01" type="Best Deal">
+			<cardTitle>
+				Groetjet Sint 
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F1">
+				</cardCover>
+				<Name>
+				Sinketerklaas choice	
+				</Name>
+				<Issue-Date>
+					2011-1-1
+				</Issue-Date>
+				<Validity>
+					3
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					8/10
+				</ratings>
+				<cost>
+					$ 450
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG07G" location="London">
+				    London
+				</PlaceUsed>
+				<designer>
+					Aditya Pradhan
+				</designer>
+				<NoofUsers>
+					103
+				</NoofUsers>
+				<Code>
+					TWTWTSDHHFT
+				</Code>
+				<discount>
+					5%
+				</discount>
+				<availableItems>
+					330
+				</availableItems>
+				<!-- <bonus>
+					$ 5
+				</bonus> -->
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 2 -->
+		<card cardID="SN02" type="Offer">
+			<cardTitle>
+				Efterling
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F2">
+				</cardCover>
+				<Name>
+					Animal tree
+				</Name>
+				<Issue-Date>
+					2011-12-1
+				</Issue-Date>
+				<Validity>
+					2
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					4/5
+				</ratings>
+				<cost>
+					$ 40
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG03G" location="UK">
+					London
+				</PlaceUsed>
+				<designer>
+					Issac bott
+				</designer>
+				<NoofUsers>
+					232
+				</NoofUsers>
+				<Code>
+					ASDRFGGGFK
+				</Code>
+				<discount>
+					5%
+				</discount>
+				<availableItems>
+					120
+				</availableItems>
+				<bonus>
+					$ 5
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 3 -->
+		<card cardID="SN03" type="special">
+			<cardTitle>
+				Valentine Special
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F3">
+				</cardCover>
+				<Name>
+					Fijne Valentijn
+				</Name>
+				<Issue-Date>
+					2009-07-09
+				</Issue-Date>
+				<Validity>
+					5
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					09/10
+				</ratings>
+				<cost discount="10%">
+					$ 50
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG08G" location="UK">
+					London
+				</PlaceUsed>
+				<designer>
+					Ligal Thapa
+				</designer>
+				<NoofUsers>
+					798
+				</NoofUsers>
+				<Code>
+					CFDDRTGGH
+				</Code>
+				<discount>
+					9%
+				</discount>
+				<availableItems>
+					295
+				</availableItems>
+				<bonus>
+					$ 15
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 4 -->
+		<card cardID="SN04" type="Best Deal">
+			<cardTitle>
+				Nike Special
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F4">
+				</cardCover>
+				<Name>
+					Right tag
+				</Name>
+				<Issue-Date>
+					2013-09-13
+				</Issue-Date>
+				<Validity>
+					1
+				</Validity>
+				<language>
+					French
+				</language>
+				<ratings>
+					7/10
+				</ratings>
+				<cost>
+					$30
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG02G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Bruno Mars
+				</designer>
+				<NoofUsers>
+					Shampoo Press Curl
+				</NoofUsers>
+				<Code>
+					The Stereotypes
+				</Code>
+				<discount>
+					5%
+				</discount>
+				<availableItems>
+					33
+				</availableItems>
+				<bonus>
+					$ 5
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 5 -->
+		<card cardID="SN05" type="Best Deal">
+			<cardTitle>
+				Keuze cadeaukaart
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F5">
+				</cardCover>
+				<Name>
+					Keuze lanban
+				</Name>
+				<Validity>
+					3
+				</Validity>
+				<language>
+					Spanish
+				</language>
+				<ratings>
+					3/5
+				</ratings>
+				<cost discount="10%">
+					$ 43
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG01G" location="Edinburg">
+					Edinburg
+				</PlaceUsed>
+				<designer>
+					Roshan Koirala
+				</designer>
+				<NoofUsers>
+					987
+				</NoofUsers>
+				<Code>
+					JFUFHFNVNVNH
+				</Code>
+				<discount>
+				No
+				</discount>
+				<availableItems>
+					49
+				</availableItems>
+				<bonus>
+					$ 2
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 6 -->
+		<card cardID="SN06" type="Offer">
+			<cardTitle>
+				Dagje Uit
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F6">
+				</cardCover>
+				<Name>
+					Cadehukaart
+				</Name>
+				<Issue-Date>
+					2012-01-23
+				</Issue-Date>
+				<Validity>
+					2
+				</Validity>
+				<language>
+					Spanish
+				</language>
+				<ratings>
+					4.8/5
+				</ratings>
+				<cost discount="5%">
+					$ 6
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG09G" location="Manchester">
+					Manchester
+				</PlaceUsed>
+				<designer>
+					Nikhil shrestha
+				</designer>
+				<NoofUsers>
+					450
+				</NoofUsers>
+				<Code>
+					KKGUHHGNGHG
+				</Code>
+				<discount>
+					$ 0 
+				</discount>
+				<availableItems>
+					239
+				</availableItems>
+				<bonus>
+					$ 5
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 6 -->
+		<card cardID="SN06" type="Best Deal">
+			<cardTitle>
+				Nationale Tuinob
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F7">
+				</cardCover>
+				<Name>
+					Alternative baffty
+				</Name>
+				<Issue-Date>
+					2011-09-09
+				</Issue-Date>
+				<Validity>
+					1
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					4.5/5
+				</ratings>
+				<cost>
+					$ 70
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG08G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Naony Tuinob
+				</designer>
+				<NoofUsers>
+					245
+				</NoofUsers>
+				<Code>
+					FGGTHUUUJML
+				</Code>
+				<discount>
+					$ 6
+				</discount>
+				<availableItems>
+					332
+				</availableItems>
+				<bonus>
+					$ 15
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 8 -->
+		<card cardID="SN08" type="Offer">
+			<cardTitle>
+				Jewel card
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F8">
+				</cardCover>
+				<Name>
+					Sieraden and horlo
+				</Name>
+				<Issue-Date>
+					2012-11-03
+				</Issue-Date>
+				<Validity>
+					3
+				</Validity>
+				<ratings>
+					4/5
+				</ratings>
+				<cost discount="20%">
+					$ 50
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG05G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Abishek Jha
+				</designer>
+				<NoofUsers>
+					345
+				</NoofUsers>
+				<Code>
+					HGIGMBHGGMGNHG
+				</Code>
+				<discount>
+					$ 5
+				</discount>
+				<availableItems>
+					299
+				</availableItems>
+				<bonus>
+					$ 0
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 9 -->
+		<card cardID="SN09" type="Best Deal">
+			<cardTitle>
+				Romantisch Dineren
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F9">
+				</cardCover>
+				<Name>
+					Voor To personen
+				</Name>
+				<Issue-Date>
+					2011-01-23
+				</Issue-Date>
+				<Validity>
+					2
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					4/5
+				</ratings>
+				<cost>
+					$ 60
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG15G" location="Bristol">
+					Bristol
+				</PlaceUsed>
+				<designer>
+					Alin Bastola
+				</designer>
+				<NoofUsers>
+					786
+				</NoofUsers>
+				<Code>
+					HJUTGMKLOTY
+				</Code>
+				<discount>
+					$2
+				</discount>
+				<availableItems>
+					352
+				</availableItems>
+				<bonus>
+					$ 7
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 10 -->
+		<card cardID="SN10" type="Offer">
+			<cardTitle>
+				REIS CADEAU
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F10">
+				</cardCover>
+				<Name>
+					Journey Dewnlo
+				</Name>
+				<Issue-Date>
+					2012-03-04
+				</Issue-Date>
+				<Validity>
+					2
+				</Validity>
+				<language>
+					French
+				</language>
+				<ratings>
+					4.3/5
+				</ratings>
+				<cost discount="10%">
+					$ 70
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG02G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Kamil janin
+				</designer>
+				<NoofUsers>
+					456
+				</NoofUsers>
+				<Code>
+					KJDYDBHCYF
+				</Code>
+				<discount>
+					$ 5
+				</discount>
+				<availableItems>
+					337
+				</availableItems>
+				<bonus>
+					$ 2
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 11 -->
+		<card cardID="SN11" type="Best Deal">
+			<cardTitle>
+				VIEWUE WONING
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F11">
+				</cardCover>
+				<Name>
+					Keuze cadeaukaart
+				</Name>
+				<Validity>
+					1
+				</Validity>
+				<language>
+					spanish
+				</language>
+				<ratings>
+					3.5/5
+				</ratings>
+				<cost>
+					$ 46
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG10G" location="Glasgow">
+					Glasgow
+				</PlaceUsed>
+				<designer>
+					Binod karki
+				</designer>
+				<NoofUsers>
+					123
+				</NoofUsers>
+				<Code>
+					ACJIGPLLJBRQ
+				</Code>
+				<discount>
+					$ 3
+				</discount>
+				<availableItems>
+					543
+				</availableItems>
+				<bonus>
+					$ 2.1
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 12 -->
+		<card cardID="SN12" type="Best Deal">
+			<cardTitle>
+				ALSJEBLIEFT
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F12">
+				</cardCover>
+				<Name>
+					Jouw Cadeau
+				</Name>
+				<Issue-Date>
+					Speak Your Mind
+				</Issue-Date>
+				<Validity>
+					2
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					4.6/5
+				</ratings>
+				<cost discount="20%">
+					$ 80
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG12G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Aakash Karki
+				</designer>
+				<NoofUsers>
+					646
+				</NoofUsers>
+				<Code>
+					HFJVFKFIIMGMB
+				</Code>
+				<discount>
+					$ 3.5
+				</discount>
+				<availableItems>
+					390
+				</availableItems>
+				<bonus>
+					$ 2.5
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 13 -->
+		<card cardID="SN12" type="Offer">
+			<cardTitle>
+				EK HU VAN
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F13">
+				</cardCover>
+				<Name>
+					Keuze Cadeaukanz
+				</Name>
+				<Issue-Date>
+					2015-11-11
+				</Issue-Date>
+				<Validity>
+					3
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					4.6/5
+				</ratings>
+				<cost discount="20%">
+					$ 58
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG12G" location="Manchester">
+						Manchester
+				</PlaceUsed>
+				<designer>
+					Aadil khan
+				</designer>
+				<NoofUsers>
+					675
+				</NoofUsers>
+				<Code>
+					HJUFJKHIYNMK
+				</Code>
+				<discount>
+					$ 3.5
+				</discount>
+				<availableItems>
+					533
+				</availableItems>
+				<bonus>
+					$ 5.3
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 14 -->
+		<card cardID="SN12" type="Best Deal" length="4:07">
+			<cardTitle>
+				WEEKEND DJEWEG
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F14">
+				</cardCover>
+				<Name>
+					Ruim aanbod
+				</Name>
+				<Issue-Date>
+					2016-11-11
+				</Issue-Date>
+				<Validity>
+					2.5
+				</Validity>
+				<language>
+					French
+				</language>
+				<ratings>
+					3.6/5
+				</ratings>
+				<cost discount="20%">
+					$ 58
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG12G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Bindo Shah
+				</designer>
+				<NoofUsers>
+					412
+				</NoofUsers>
+				<Code>
+					KJYUBVYTUIDF
+				</Code>
+				<discount>
+					$ 5.2
+				</discount>
+				<availableItems>
+					343
+				</availableItems>
+				<bonus>
+					$ 2.7
+				</bonus>
+			</AdditionalDetails>
+		</card>
+		<!-- Display for card 15 -->
+		<card cardID="SN12" type="Best Deal">
+			<cardTitle>
+				NATIONALE ENTERTMENT
+			</cardTitle>
+			<cardDescription>
+				<cardCover coverID="F15">
+				</cardCover>
+				<Name>
+					CD Vinyl Games
+				</Name>
+				<Issue-Date>
+					2016-05-12
+				</Issue-Date>
+				<Validity>
+					1.5
+				</Validity>
+				<language>
+					English
+				</language>
+				<ratings>
+					4.6/5
+				</ratings>
+				<cost discount="20%">
+					$ 58
+				</cost>
+			</cardDescription>
+			<AdditionalDetails>
+				<PlaceUsed PlaceUsedID="SG12G" location="London">
+					London
+				</PlaceUsed>
+				<designer>
+					Balen Shah
+				</designer>
+				<NoofUsers>
+					211
+				</NoofUsers>
+				<Code>
+					YUTNHGJUYIGFY
+				</Code>
+				<discount>
+					$ 3.5
+				</discount>
+				<availableItems>
+					312
+				</availableItems>
+				<bonus>
+					$ 1.5
+				</bonus>
+			</AdditionalDetails>
+		</card>
+	</cards>
+	<!-- footer of the web page -->
+	<footer>
+		<footerLogo>
+		</footerLogo>
+		<contactDetails>
+			<!-- all contact information of ansari store -->
+			<address>
+				London,UK
+			</address>
+			<phoneNumber>
+				01-412345
+			</phoneNumber>
+			<phoneNumber>
+				9811340089
+			</phoneNumber>
+			<email>
+				ansarigiftcard11@gmail.com
+			</email>
+			<!-- <url>www.firdoshansari.com.np</url> -->
+			<url>
+				www.firdoshansari.com.np
+			</url>
+		</contactDetails>
+		<!-- reserved copyright text -->
+		<copyright>
+			Copyright © Ansari Gift Card store. All rights Reserved.
+		</copyright>
+	</footer>
+</store>
